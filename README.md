@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD032 MD033-->
-# 🔥 **Josee9988's GitHub Project Template**
+# 🔥 **My Name Autumn**
 
 <p align="center">
   <a href="https://github.com/Josee9988/project-template/generate">
